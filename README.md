@@ -1,3 +1,7 @@
+A memory simulator game written in ReactJS
+
+Games with paired numbers - a simulator for memory. The essence of the game is that you can open two cards in one move. If the numbers on them are the same, the cards will disappear, and if not, they will turn over again. The goal is to find all pairs of numbers. Memorize the position of the numbers to win!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

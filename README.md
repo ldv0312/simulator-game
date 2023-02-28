@@ -1,4 +1,4 @@
-simulator-game.vercel.app
+https://simulator-game.vercel.app/
 
 A memory simulator game written in ReactJS
 
